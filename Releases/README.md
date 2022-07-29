@@ -1,0 +1,20 @@
+# Executables CHECKSUMS
+---
+### v1
+
+```
+[MD5-CHECKSUM]
+
+mp3MusicPlayer_cli :  97f1d8efac358a8cde22ce60570c67cb
+mp3MusicPlayer_cli.exe :  9cfe6cd7265faf48847fa54d52be01eb
+
+[SHA256-CHECKSHUM]
+
+mp3MusicPlayer_cli :  45081dcb6a835d0ba44dfaee89f36b520cbbea1367cbcb40c212ea9c098c5f8e
+mp3MusicPlayer_cli.exe :  b6622d1a62715985f9306a6c2bb0d5fa2448db7768b9475a12dd31639b7f948f
+
+[SHA512-CHECKSUM]
+
+mp3MusicPlayer_cli : 24db868940971d22b7bfbb1c03b3403b4cf30d1d0187c305c2e862e90a3130ad88f202ff89ab3a403cfdda8435bccd5f69e62f2031d32bc0f48c810bac27a565
+mp3MusicPlayer_cli.exe : 7a01d37b242a6fad956de9152b7957ef2e50dbe49c42d6ec84799a03937ca291ebee7c3086fefdb543afe64cd6daa0823873124bcbe8551f005ed149e5bd80a2
+```
