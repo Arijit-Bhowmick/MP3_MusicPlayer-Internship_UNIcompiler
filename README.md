@@ -53,6 +53,7 @@ d : Song Details
 
 ### Test Cases:
 
+```
 Python 3.8, Python 3.9
 CMD, PowerShell, Terminal
 
@@ -69,3 +70,4 @@ Ubuntu 20.04.4 LTS
         Processor : AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
 
     ]
+```
