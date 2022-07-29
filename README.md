@@ -50,3 +50,22 @@ d : Song Details
 + : Volume Up
 - : Volume Down
 ```
+
+### Test Cases:
+
+Python 3.8, Python 3.9
+CMD, PowerShell, Terminal
+
+Windows 10 Home 64 Bit Single Language
+    [
+        RAM : 16 GB
+        Processor : AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+
+    ]
+
+Ubuntu 20.04.4 LTS
+    [
+        RAM : 2 GB,
+        Processor : AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+
+    ]
